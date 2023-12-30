@@ -50,7 +50,7 @@ class Config(object):
 	BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", False))
 	LAZY_CHANNEL = int(os.environ.get('LAZY_CHANNEL','-100'))
 	LAZY_MODE = bool(os.environ.get("LAZY_MODE", False))
-	LAZY_PIC = os.environ.get("LAZY_PIC","https://telegra.ph/file/d382d2fad1fdd2a4ccca4.png")
+	LAZY_PIC = os.environ.get("LAZY_PIC","https://graph.org/file/89c14dce2ad00187cde31.jpg")
 	LP_BTN_MAIN_CH_USRNM = os.environ.get("LP_BTN_MAIN_CH_USRNM")
 	LP_CHANNEL_USRNM = os.environ.get("LP_CHANNEL_USRNM")
 	LPCH_ADMIN_USRMN = os.environ.get("LPCH_ADMIN_USRMN")
@@ -61,39 +61,26 @@ class Config(object):
 	AUTO_DELETE_TIME = int(os.environ.get('AUTO_DELETE_TIME', 20))
 
 	ABOUT_BOT_TEXT = f"""
-ᴛʜɪꜱ ɪꜱ ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰɪʟᴇꜱ ꜱᴛᴏʀᴇ ʙᴏᴛ!
-ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ꜰɪʟᴇ ɪ ᴡɪʟʟ ꜱᴀᴠᴇ ɪᴛ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ. ᴀʟꜱᴏ ᴡᴏʀᴋꜱ ꜰᴏʀ ᴄʜᴀɴɴᴇʟ. ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴄʜᴀɴɴᴇʟ ᴀꜱ ᴀᴅᴍɪɴ ᴡɪᴛʜ ᴇᴅɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ, ɪ ᴡɪʟʟ ᴀᴅᴅ ꜱᴀᴠᴇ ᴜᴘʟᴏᴀᴅᴇᴅ ꜰɪʟᴇ ɪɴ ᴄʜᴀɴɴᴇʟ & ᴀᴅᴅ ꜱʜᴀʀᴀʙʟᴇ ʙᴜᴛᴛᴏɴ ʟɪɴᴋ.
+🔸​🇮​ ​🇦​​🇲​ ​🇫​​🇮​​🇱​​🇪​ ​🇸​​🇹​​🇴​​🇷​​🇪​ ​🇧​​🇴​​🇹​ ​🇹​​🇭​​🇦​​🇹​ ​🇼​​🇮​​🇱​​🇱​ ​🇵​​🇪​​🇷​​🇲​​🇦​​🇳​​🇪​​🇳​​🇹​​🇱​​🇾​ ​🇸​​🇹​​🇴​​🇷​​🇪​ ​🇾​​🇴​​🇺​​🇷​ ​🇬​​🇮​​🇻​​🇪​​🇳​ ​🇫​​🇮​​🇱​​🇪​ ​🇦​​🇳​​🇩​ ​🇼​​🇮​​🇱​​🇱​ ​🇵​​🇷​​🇴​​🇻​​🇮​​🇩​​🇪​ ​🇾​​🇴​​🇺​ ​🇦​ ​🇵​​🇪​​🇷​​🇲​​🇦​​🇳​​🇪​​🇳​​🇹​ ​🇱​​🇮​​🇳​​🇰​ ​🇹​​🇴​ ​🇦​​🇨​​🇨​​🇪​​🇸​​🇸​ ​🇹​​🇭​​🇦​​🇹​ ​🇫​​🇮​​🇱​​🇪​.
 
 🤖 **ᴍʏ ɴᴀᴍᴇ:** [Gᴀʟᴀxʏ ꜰɪʟᴇꜱ ꜱᴛᴏʀᴇ ʙᴏᴛ](https://t.me/{BOT_USERNAME})
-
-📝 **ʟᴀɴɢᴜᴀɢᴇ:** [PУΓHФИ3](https://www.python.org)
-
-📚 **ʟɪʙʀᴀʀʏ:** [P͢y͢r͢o͢g͢r͢a͢m͢](https://docs.pyrogram.org)
-
+📝 **ʟᴀɴɢᴜᴀɢᴇ:** [Python](https://www.python.org)
+📚 **ʟɪʙʀᴀʀʏ:** [Pyrogram](https://docs.pyrogram.org)
 📡 **ʜᴏꜱᴛᴇᴅ ᴏɴ:** [koyeb](https://app.koyeb.com)
-
-🧑🏻‍💻 **Dᴇᴠʟᴏᴘᴇʀ:** [Eᴋᴀᴍᴘʀᴇᴇᴛ⑅Sɪɴɢʜ](https://t.me/LazyDeveloperr)
-
-🎬 **Mᴏᴠɪᴇs Gʀᴏᴜᴘ** [Mᴏᴠɪᴇs Gᴀʟᴀxʏ](https://t.me/Moviesgalaxy120)
+🧑🏻‍💻 **Dᴇᴠʟᴏᴘᴇʀ:** [Eᴋᴀᴍᴘʀᴇᴇᴛ⑅Sɪɴɢʜ](https://t.me/EK4MPREETSINGH)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 <a href='https://t.me/LazyDeveloperr'>**✪Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ✪** </a>
 """
 	LAZY_HOME_TEXT = """
-Hᴇʏ, [{}](tg://user?id={})\n\nɪ'ᴍ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ **ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ**.
+ʜᴇʏ, [{}](tg://user?id={})\n\nɪ'ᴍ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ.\n🔹Jᴜsᴛ sᴇɴᴅ ᴍᴇ ᴀ ғɪʟᴇ ᴀɴᴅ ɪ ᴡɪʟʟ ᴘᴇʀᴍᴀᴍᴇɴᴛʟʏ sᴛᴏʀᴇ ɪᴛ ᴀɴᴅ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴛᴏ ᴀᴄᴄᴇss ɪᴛ.
 
-▷Jᴜsᴛ sᴇɴᴅ ᴍᴇ ᴀ ғɪʟᴇ ᴀɴᴅ ɪ ᴡɪʟʟ ᴘᴇʀᴍᴀɴᴇɴᴛʟʏ sᴛᴏʀᴇ ᴛʜᴀᴛ ғɪʟᴇ ᴀɴᴅ ᴡɪʟʟ sᴇɴᴅ ʏᴏᴜ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛᴏ ᴀᴄᴇss ᴛʜᴀʀ ғɪʟᴇ.
-
-«[⚡ᴘᴏᴡᴇʀ ᴍᴏᴅᴇ⚡ : 𝘈𝘊𝘛𝘐𝘝𝘈𝘛𝘌𝘋✅]»
- I ᴡɪʟʟ ʜᴀɴᴅʟᴇ ᴇᴠᴇʀʏᴛʜɪɴɢ
+◁ Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: [Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ](https://t.me/EK4MPREETSINGH)
 """
 	HOME_TEXT = """
-Hᴇʏ, [{}](tg://user?id={})\n\nɪ'ᴍ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ **ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ**.
+ʜᴇʏ, [{}](tg://user?id={})\n\nɪ'ᴍ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ.\n🔹Jᴜsᴛ sᴇɴᴅ ᴍᴇ ᴀ ғɪʟᴇ ᴀɴᴅ ɪ ᴡɪʟʟ ᴘᴇʀᴍᴀᴍᴇɴᴛʟʏ sᴛᴏʀᴇ ɪᴛ ᴀɴᴅ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴛᴏ ᴀᴄᴄᴇss ɪᴛ.
 
-▷Jᴜsᴛ sᴇɴᴅ ᴍᴇ ᴀ ғɪʟᴇ ᴀɴᴅ ɪ ᴡɪʟʟ ᴘᴇʀᴍᴀɴᴇɴᴛʟʏ sᴛᴏʀᴇ ᴛʜᴀᴛ ғɪʟᴇ ᴀɴᴅ ᴡɪʟʟ sᴇɴᴅ ʏᴏᴜ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛᴏ ᴀᴄᴇss ᴛʜᴀʀ ғɪʟᴇ.
-
-«[⚡️ᴘᴏᴡᴇʀ ᴍᴏᴅᴇ⚡ : 𝘋𝘐𝘚𝘈𝘉𝘓𝘌𝘋💢]»
-ɴᴏᴡ ɪ ᴄᴀɴ'ᴛ ʜᴀɴᴅʟᴇ ᴇᴠᴇʀʏᴛʜɪɴɢ😴
+◁ Mᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ: [Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ](https://t.me/EK4MPREETSINGH)
 """
 
 
